@@ -16,6 +16,6 @@ As such, feedback is appreciated, but if you're interested in using this behavio
 
 For information on how the Sonic games handled their physics, I would recommend the [Sonic Physics Guide](http://info.sonicretro.org/Sonic_Physics_Guide) (which was referenced heavily in the development of this addon).
 
-For examples of Construct 2 behaviours, I'd recommend checking the default Platform behaviour's code, as has less Sonic-Physics-Specific code obfuscating the essentials.
+For examples of Construct 2 behaviours, I'd recommend checking the default Platform behaviour's code, as it has less Sonic-Physics-Specific code obfuscating the essentials.
 
 For general general Construct 2 addon information, refer to the [Construct 2 Javascript SDK Documentation](https://www.scirra.com/manual/15/sdk).
