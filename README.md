@@ -6,7 +6,9 @@ As with built-in behaviours, this addon interacts correctly with attribute-based
 Links:
 
 [Behaviour .c2addon file](https://danielpetermcdonald.github.io/sonicphysics/sonicphysics.c2addon)
+
 [Example .capx file](https://danielpetermcdonald.github.io/sonicphysics/SonicPhysicsDemo.capx)
+
 [Playable example](https://danielpetermcdonald.github.io/sonicphysics/Demo/index.html)
 
 Please note that this addon has been developed over a long, drawn-out period of time, where I've really only had a few days at a time to try and work on it. The project has been primarily a learning experience for me, which means that some portions of the code are better-developed, and (by extension) the code is not particularly consistent in terms of quality.
