@@ -3324,7 +3324,8 @@ cr.behaviors.SonicPhysics = function(runtime)
 
 			//run arc checks against that poly
 			//var arcSegment = this.getArcSegment(0, 90, solidPoly, this.isLeftCornerColliding, solidX, solidY);
-			var tempVariable = this.getOffsetAngle(true, true);
+			//TODO: Re-enable this!
+			//var tempVariable = this.getOffsetAngle(true, true);
 			
 			//So before we can run through the segments of the poly, we need to get an array of points. Easy if it's a poly, less so if it's a bquad.
 			//The differences between the two is mildly frustrating but oh well.
